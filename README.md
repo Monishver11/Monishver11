@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Monishver Chandrasekaran.
-- 👀 I’m interested in Data Science & Machine Learning.
-- 🌱 I’m currently looking for ML interships to have some industry experience.
+- 👀 I’m interested in Machine Learning and DevOps.
 - 💞️ I’m looking to collaborate on any new innovative projects related to ML.
 - 📫 You can reach me through mail, monishverchandrasekaran@gmail.com
 
