@@ -1,5 +1,5 @@
 - 👋 Hi, I’m [Monishver Chandrasekaran](https://monishver11.github.io/).
-- 👀 I’m interested in Machine Learning and DevOps.
+- 👀 I’m interested in Machine Learning and AI.
 - 🌱 I’m looking to collaborate on any new innovative projects related to ML.
 - 📫 You can reach me through mail, monishverchandrasekaran@gmail.com
 
